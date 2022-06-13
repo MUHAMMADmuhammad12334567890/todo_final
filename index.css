@@ -1,0 +1,41 @@
+body {
+    color: red;
+    background-color: grey;
+}
+
+.form_class {
+    margin-top: 4%;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.input_value {
+width: 30%;
+margin-right: 10px;
+border-radius: 30px;
+}
+.submit_button {
+border-radius: 15px;
+color:  red;
+width: 3%;
+}
+
+.titel_list_class {
+  display: flex;  
+  justify-content: space-between
+}
+
+.radio_button_class {
+    margin-top: 19px;
+    
+}
+.delete_button_class {
+    border-radius: 30px;
+}
+
+.titel_list_patch {
+    text-decoration: line-through;
+    display: flex;  
+    justify-content: space-between
+}
